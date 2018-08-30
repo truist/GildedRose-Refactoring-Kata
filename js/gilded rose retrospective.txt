@@ -1,0 +1,35 @@
+
+
+Good
+====
+Lots of perspectives
+Lots of discussion about details
+If we had done this all the way, we would have come out with shared understanding
+
+
+
+Bad
+====
+Want a linter
+Seemed slower than one person
+Used lots of people's time
+Lots of discussion about minute details
+It would be frustrating to do this a lot
+
+
+
+Comments
+========
+Started from a test-heavy perspective
+We didn't read the code
+Code looked fragile
+"use strict"
+Want tests to continually refresh
+Setting the standards early seems good
+Hard for everybody to participate in navigating
+Hard to pick a level of abstraction
+Very prescriptive ("type this")
+Might have changed as we got familiar with the process
+Whoever talks the loudest gets control
+It would help for the driver to be able to give ideas
+
